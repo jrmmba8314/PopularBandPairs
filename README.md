@@ -1,5 +1,7 @@
 # PopularBandPairs
 
+This was done as part of software engineering interview...
+
 The assignment is:
 
 The attached text file contains the favorite musical artists of 1000 users from Some Popular Music Review Website. Each line is a list of up to 50 artists, formatted as follows:
