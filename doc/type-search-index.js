@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"popBands","l":"Bands"},{"p":"popBands","l":"LikedBandPairs"},{"p":"popBands","l":"ReportPopularPairs"},{"p":"popBands","l":"UserLikes"}]
